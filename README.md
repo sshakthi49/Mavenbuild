@@ -6,6 +6,8 @@ Use Maven Build first to create war file in Target folder.
 
 mvn clean package
 
+"From Branch-1"
+
 docker build -t mavenbuild .
 
 Once this is done u will be see image using docker image
